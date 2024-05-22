@@ -38,4 +38,4 @@
  
 ## Postman collection
 
-[postman collection](https://google.com)
+[postman collection](https://www.postman.com/anirudhsaini/workspace/flickr/collection/30154899-4f0085c6-a32b-45d9-8d6a-2ecef781e73c?action=share&creator=30154899)
